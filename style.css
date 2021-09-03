@@ -1,0 +1,7 @@
+body {
+  background-color: #0174a7;
+}
+
+.scroll {
+  overflow: scroll;
+}
